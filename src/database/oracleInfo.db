@@ -1,4 +1,0 @@
-# 오라클 정보
-oracle_url=jdbc:oracle:thin:@localhost:1521:XE
-oracle_user=?
-oracle_password=?
